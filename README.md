@@ -4,8 +4,8 @@
 
  # Follow steps below to execute:
 
- *`apt update -y && apt upgrade -y`
- *`pkg install git`
- *`git clone https://github.com/ST0096/Scanner.git`
- *`chmod +x wireless.sh`
- *`./wireless.sh`
+ * `apt update -y && apt upgrade -y`
+ * `pkg install git`
+ * `git clone https://github.com/ST0096/Scanner.git`
+ * `chmod +x wireless.sh`
+ * `./wireless.sh`
